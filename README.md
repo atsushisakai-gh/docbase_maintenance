@@ -1,0 +1,2 @@
+# docbase_maintenance
+docbaseの公開範囲をmaintenanceするためのスクリプト
